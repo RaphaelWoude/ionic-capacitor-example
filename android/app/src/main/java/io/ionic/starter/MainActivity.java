@@ -2,6 +2,7 @@ package io.ionic.starter;
 
 import android.os.Bundle;
 
+import com.capacitorjs.plugins.app.AppPlugin;
 import com.getcapacitor.BridgeActivity;
 import com.getcapacitor.Plugin;
 
